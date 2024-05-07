@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rosangela França
 - 👀 I’m interested in Trocar idéias, contribuir e aprender.
-- 🌱 I’m currently learning JavaScript, Java, C#, Banco de Dados.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, nodeJS.
 - 💞️ I’m looking to collaborate on projetos 
 - 📫 How to reach me ... email: rohofranca@gmail.com
 - 😄 Pronouns: Ela/Dela
